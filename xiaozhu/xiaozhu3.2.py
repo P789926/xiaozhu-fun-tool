@@ -1,3 +1,5 @@
+# ！！！代码最终由AI重构，且注释均为AI添加，读起来会有些死板！！！
+# 作者：P_71ang 转载请标明来源
 import tkinter as tk
 import webbrowser
 import random
